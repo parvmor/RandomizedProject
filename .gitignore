@@ -1,0 +1,6 @@
+*.yaml
+*.aux
+*.log
+*.fls
+*.gz
+*.fdb_latexmk
